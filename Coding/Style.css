@@ -1,0 +1,87 @@
+.jaykanaal {
+	box-shadow: 0px 4px 0px 0px #000000;
+	background:    #8a0e0e;background:    linear-gradient(#ff0000, #8a0e0e 50%, #ff0000);
+	border-radius:28px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Impact;
+	font-size:19px;
+	padding:11px 26px;
+	text-decoration:none;
+	text-shadow:0px 1px 17px #000000;
+  margin-left: 93%;
+  margin-top: 760px;
+}
+
+.jaykanaal:hover {
+	background-color:#de0b0b;
+}
+.jaykanaal:active {
+	position:relative;
+	top:1px;
+  
+}
+
+
+.discord {
+	box-shadow: 0px 4px 2px 0px #000000;
+	background:    #0c2c4e;
+background:    linear-gradient(#1137e2, #0c2c4e 50%, #1137e2);
+	border-radius:28px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Impact;
+	font-size:19px;
+	padding:11px 26px;
+	text-decoration:none;
+	text-shadow:-7px 2px 5px #000bd6;
+  margin-left: 93%;
+  margin-top: 2px;
+}
+.discord:hover {
+	background-color:#0543fc;
+}
+.discord:active {
+	position:relative;
+	top:0px;
+}
+
+.test12{
+background-color: #000000;
+width: 1887px;
+height: 140px;
+margin-top:-135px;
+
+
+}
+.test1{
+  background-color: rgb(144, 220, 243);
+  width: 3000;
+  height: 1500px;
+  margin-top: -85%;
+}
+
+.test2{
+	background-color: #ffffff;
+	width: 1910px;
+	height: 130px;
+	margin-top:-970px;	
+
+}
+
+.OverOns{
+	font-size: 19px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: white;
+}
+.Overonsachtergrond{
+	background-color: rgb(0, 0, 0);
+	height: 650px;
+	width: 1887px;
+	margin-top: -568px;
+}
+
